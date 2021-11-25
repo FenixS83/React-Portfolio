@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-Portfolio/static/css/main.0a0ed2f7.chunk.css",
+    "main.js": "/React-Portfolio/static/js/main.15254a77.chunk.js",
+    "main.js.map": "/React-Portfolio/static/js/main.15254a77.chunk.js.map",
+    "runtime-main.js": "/React-Portfolio/static/js/runtime-main.3f02e02f.js",
+    "runtime-main.js.map": "/React-Portfolio/static/js/runtime-main.3f02e02f.js.map",
+    "static/js/2.22f00a05.chunk.js": "/React-Portfolio/static/js/2.22f00a05.chunk.js",
+    "static/js/2.22f00a05.chunk.js.map": "/React-Portfolio/static/js/2.22f00a05.chunk.js.map",
+    "index.html": "/React-Portfolio/index.html",
+    "static/css/main.0a0ed2f7.chunk.css.map": "/React-Portfolio/static/css/main.0a0ed2f7.chunk.css.map",
+    "static/js/2.22f00a05.chunk.js.LICENSE.txt": "/React-Portfolio/static/js/2.22f00a05.chunk.js.LICENSE.txt",
+    "static/media/all-things-pets.jpg": "/React-Portfolio/static/media/all-things-pets.7e419a2e.jpg",
+    "static/media/cover-image.3f4b8a47.jpg": "/React-Portfolio/static/media/cover-image.3f4b8a47.jpg",
+    "static/media/employee-tracker.jpg": "/React-Portfolio/static/media/employee-tracker.83e91ec1.jpg",
+    "static/media/fenix_sampson_business_card.jpg": "/React-Portfolio/static/media/fenix_sampson_business_card.d13d2f32.jpg",
+    "static/media/fulllogo_transparent.jpg": "/React-Portfolio/static/media/fulllogo_transparent.4821da36.jpg",
+    "static/media/tech-blog.jpg": "/React-Portfolio/static/media/tech-blog.2c857fc1.jpg",
+    "static/media/weather-dashboard.jpg": "/React-Portfolio/static/media/weather-dashboard.7a3a21d7.jpg",
+    "static/media/work-day-scheduler.jpg": "/React-Portfolio/static/media/work-day-scheduler.04d08dd1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3f02e02f.js",
+    "static/js/2.22f00a05.chunk.js",
+    "static/css/main.0a0ed2f7.chunk.css",
+    "static/js/main.15254a77.chunk.js"
+  ]
+}
