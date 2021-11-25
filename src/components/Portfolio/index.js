@@ -6,34 +6,34 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surf-report',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'all-things-pets',
+      description: 'Group created API with Pet Integration App',
+      link: "https://vast-retreat-92642.herokuapp.com/",
+      repo: "https://github.com/gabrielcalk/all_things_pets"
     },
     {
-      name: 'pastel-puzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'weather-dashboard',
+      description: 'Use third party API to create Weather Dashboard',
+      link: "https://fenixs83.github.io/weather-dashboard/",
+      repo: "https://github.com/FenixS83/weather-dashboard"
     },
     {
-      name: 'run-buddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'employee-tracker',
+      description: 'Command Line Employee Management System',
+      link: "https://youtu.be/itDD6llxDMM",
+      repo: "https://github.com/FenixS83/employee-tracker"
     },
     {
-      name: 'led-wall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'work-day-scheduler',
+      description: 'Calendar application',
+      link: "https://fenixs83.github.io/work-day-scheduler/",
+      repo: "https://github.com/FenixS83/work-day-scheduler"
     },
     {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'tech-blog',
+      description: 'CMS style blog',
+      link: "https://fenix-sampson-tech-blog.herokuapp.com/",
+      repo: "https://github.com/FenixS83/MVC-Tech-Blog"
     },
   ]);
 
